@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - osTicket: Prerequisites and Installation
   - [Active Directory Home Lab](https://github.com/jsabala25)
 
   <h2>📃 Certifications </h2>

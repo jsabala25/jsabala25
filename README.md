@@ -1,36 +1,19 @@
-<h1>Hi, I'm Juan! </h1>
+<h1>Hi, I'm Juan, an <a href="https://www.linkedin.com/in/juan-sabala-611722246/">IT Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-  - osTicket: Prerequisites and Installation
-  - [Active Directory Home Lab](https://github.com/jsabala25)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-  <h2>📃 Certifications </h2>
+<h2>🤳Connect with me:</h2>
 
-   - [Course Careers IT Support](https://github.com/jsabala25)
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JuanSabala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://www.linkedin.com/in/juan-sabala-611722246/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
